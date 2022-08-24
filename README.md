@@ -1,2 +1,3 @@
-- 🪴 **Hi there this is Yiju's Github**
+**Hi there👋🏻
+- 🪴 **This is Yiju's Github**
 - 👩🏻‍💻 **My major is Computer Science**
